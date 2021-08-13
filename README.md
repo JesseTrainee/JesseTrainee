@@ -3,11 +3,11 @@
 <h1>👾 Hello world! I'm <strong>Jesse!</strong> </h1>
 
 <p align="left">
- 💻 :
+ 💻 Studying:
 </p>
  
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logo=spring)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) 
@@ -25,6 +25,7 @@
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-cristina-soares-41812919b/" /></a>
 
-
+<div>
 [![JesseTrainee](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTrainee&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/JesseTrainee/)
 [![card](https://github-readme-stats.vercel.app/api?username=JesseTrainee&theme=tokyonight)](https://github.com/JesseTrainee/)
+</div>
