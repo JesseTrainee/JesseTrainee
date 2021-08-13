@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-cristina-soares-41812919b/" /></a>
 
 <div>
+ 
 [![JesseTrainee](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTrainee&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/JesseTrainee/)
 [![card](https://github-readme-stats.vercel.app/api?username=JesseTrainee&theme=tokyonight)](https://github.com/JesseTrainee/)
+ 
 </div>
