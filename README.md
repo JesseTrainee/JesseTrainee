@@ -3,11 +3,11 @@
 <h1>👾 Hello world! I'm <strong>Jesse!</strong> </h1>
 
 <p align="left">
- 💻 Linguagens:
+ 💻 :
 </p>
  
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logo)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logo=spring)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) 
@@ -15,7 +15,7 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Contacts: ⤵️
 </p>
 
 <p align="left">
