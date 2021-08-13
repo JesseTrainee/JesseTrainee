@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![card](https://github-readme-stats.vercel.app/api?username=JesseTrainee&theme=default)](https://github.com/JesseTrainee/)
+[![JesseTrainee](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTrainee&hide=html&layout=compact=true&theme=default)](https://github.com/JesseTrainee/)
+
 
 
