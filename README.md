@@ -1,22 +1,29 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador">
-
-<h1>👾 Hello world! I'm <strong>Jesse!</strong> </h1>
+<h1>👾 𝙷𝚎𝚕𝚕𝚘, 𝚆𝚘𝚛𝚕𝚍! 𝙸'𝚖 <strong>𝙹𝚎𝚜𝚜𝚎!</strong> </h1>
+<img src="https://c.tenor.com/-Di90vRZ5gAAAAAd/tenor.gif" min-width="400px" max-width="500px" width="500px" align="right" alt="Computador">
 
 <p align="left">
- 💻 Studying:
+ 💻 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐:
 </p>
  
   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![cypress](https://img.shields.io/badge/Cypress-66cca2?style=for-the-badge&logo=cypress)
+  ![python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logo=python&logoColor=yellow)
 
 <p align="left">
-  💌 Contacts: ⤵️
+  📬 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚜:
 </p>
-
-<p align="left">
+<p>
   <a href = "mailto:dev.jc2021@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dev.jc2021@gmail.com" /></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dev.jc2021@gmail.com" />
+  </a>
 
   <a href="https://www.linkedin.com/in/jesse-cristina-soares-41812919b/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-cristina-soares-41812919b/" /></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-cristina-soares-41812919b/" />
+  </a>
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=JesseTrainee&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JesseTrainee&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTrainee&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JesseTrainee&theme=radical&no-frame=true&no-bg=false&margin-w=4)
