@@ -1,29 +1,66 @@
-<h1>👾 𝙷𝚎𝚕𝚕𝚘, 𝚆𝚘𝚛𝚕𝚍! 𝙸'𝚖 <strong>𝙹𝚎𝚜𝚜𝚎!</strong> </h1>
-<img src="https://c.tenor.com/-Di90vRZ5gAAAAAd/tenor.gif" min-width="400px" max-width="500px" width="500px" align="right" alt="Computador">
+<h2 align="left">👾 𝙷𝚎𝚕𝚕𝚘, 𝚆𝚘𝚛𝚕𝚍! 𝙸'𝚖 <strong>𝙹𝚎𝚜𝚜𝚎!</strong></h2>
 
-<p align="left">
- 💻 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐:
-</p>
+###
+
+<div align="center">
+  <img height="200" src="https://c.tenor.com/-Di90vRZ5gAAAAAd/tenor.gif"  />
+</div>
+
+###
+
+<h3 align="left">💻 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<h3 align="left">📊 𝚂𝚝𝚊𝚝𝚜:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesseTrainee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesseTrainee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="120" alt="languages graph"  />
  
-  ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logo=python&logoColor=yellow)
+ <h3 align="left">🏆 𝙶𝚒𝚝𝚑𝚞𝚋 𝚃𝚛𝚘𝚙𝚑𝚒𝚎𝚜</h3>
+ <img src="https://github-profile-trophy.vercel.app?username=JesseTrainee&theme=apprentice&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<p align="left">
-  📬 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚜:
-</p>
-<p>
-  <a href = "mailto:dev.jc2021@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dev.jc2021@gmail.com" />
+###
+
+<h3 align="left">✨ 𝙱𝚊𝚍𝚐𝚎𝚜:</h3>
+
+###
+
+<div align="center">
+  <img height="" src="https://www.codewars.com/users/JesseTrainee/badges/large"  />
+</div>
+
+###
+
+<h3 align="left">📬 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚜:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jesse-cristina-soares-41812919b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
-  <a href="https://www.linkedin.com/in/jesse-cristina-soares-41812919b/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-cristina-soares-41812919b/" />
+  <a href ="mailto:dev.jc2021@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</p>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=JesseTrainee&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JesseTrainee&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTrainee&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JesseTrainee&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+###
