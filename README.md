@@ -1,9 +1,5 @@
-<h2 align="left">👾 𝙷𝚎𝚕𝚕𝚘, 𝚆𝚘𝚛𝚕𝚍! 𝙸'𝚖 <strong>𝙹𝚎𝚜𝚜𝚎!</strong></h2>
-
-###
-
 <div align="center">
-  <img height="200" src="https://c.tenor.com/-Di90vRZ5gAAAAAd/tenor.gif"  />
+  <img height="400" src="https://github.com/JesseTrainee/JesseTrainee/blob/main/Jesse-H3llo%20W0rld!!1.png"  />
 </div>
 
 ###
